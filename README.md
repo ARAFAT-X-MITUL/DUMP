@@ -6,7 +6,11 @@
 
 ## :hammer_and_wrench: Features
 
-- **Feature 1**: MAKING TOKEN
+- **Feature 1**: FILE MAKE
+- **Feature 1**: FILE DUMP
+- **Feature 1**: FILE SEPARATE
+- **Feature 1**: FILE SHORTER
+- **Feature 1**: FILE DEVIDER
 
 ## :rocket: Installation
 
