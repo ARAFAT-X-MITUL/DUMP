@@ -15,11 +15,11 @@ rm -rf DUMP
 git clone --depth=1 https://github.com/ARAFAT-X-MITUL/DUMP
 cd DUMP
 chmod 777 *
-python TOKEN.py
+./DUMP
 ```
 
 ## :telephone_receiver: Contact Information
 
 - **Email**: [Admin](djarfat1253444@gmail.com)
-- **Facebook**: [Arafat Ahammad](https://www.facebook.com/ARAFAT19847000)
+- **Facebook**: [Arafat Ahammad](https://www.facebook.com/AXM.HEREE)
 - **WhatsApp**: [ARAFAT](https://wa.me/+8801766219728)
